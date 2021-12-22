@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzenChire
-- 👀 I’m interested in programming
+- 👀 I’m interested by videos games and programming
 - 🌱 I’m currently learning Java language to develop minecraft plugins
 - 📫 AzenChire#2021
 
