@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azenchire&label=Profile%20views&color=0e75b6&style=flat" alt="azenchire" /> </p>
 
-<p align="left"> <a href="https://twitter.com/azenchire" target="blank"><img src="https://img.shields.io/twitter/follow/azenchire?logo=twitter&style=for-the-badge" alt="azenchire" /></a> </p>
-
 - 🔭 I’m currently working on **Minecraft plugin**
 
 - 📫 Reach me on Discord **https://discord.gg/4nzzkS8beg**
@@ -31,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azenchire&show_icons=true&locale=en&layout=compact" alt="azenchire" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azenchire&show_icons=true&locale=en" alt="azenchire" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azenchire&" alt="azenchire" /></p>
