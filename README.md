@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm AzenChire</h1>
 <h3 align="center">Young BTS student with a passion for computers and programming</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif">
+<img align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azenchire&label=Profile%20views&color=0e75b6&style=flat" alt="azenchire" /> </p>
 
