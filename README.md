@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)](https://discord.gg/4nzzkS8beg)
+[![MasterHead]([https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4](https://media.discordapp.net/attachments/545585586082152480/1239627086067400847/Banniere_Github.png?ex=66439c30&is=66424ab0&hm=fcc8ddf02774daec77eb8a248cf8d004055d8f702b96550d62a3a9110b034888&=&format=webp&quality=lossless))](https://discord.gg/4nzzkS8beg)
 
 <h1 align="center">Hi 👋, I'm AzenChire</h1>
 <h3 align="center">Young BTS student with a passion for computers and programming</h3>
