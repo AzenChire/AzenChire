@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Minecraft plugin**
 
-- 📫 Reach me on Discord **https://discord.gg/4nzzkS8beg**
+- 📫 Reach me on Discord **discord.gg/4nzzkS8beg**
 
 - 🌱 I’m currently learning **Java**
 
